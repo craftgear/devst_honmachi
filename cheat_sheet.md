@@ -75,3 +75,11 @@ git fetch <option>
 ```
 
 ## リポジトリ
+---------
+# log
+
+```
+git log <option>
+```
+
+## コミットログを表示する
