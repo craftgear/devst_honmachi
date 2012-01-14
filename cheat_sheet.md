@@ -101,3 +101,12 @@ git config <option>
 ```
 
 ## 設定を表示/編集する。
+
+----------
+# reset
+
+```
+git reset <option> <commit object>
+```
+
+## ブランチが指し示すコミットオブジェクトを変更する
