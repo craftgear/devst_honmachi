@@ -83,3 +83,12 @@ git log <option>
 ```
 
 ## コミットログを表示する
+
+----------
+# branch
+
+```
+git branch <option>
+```
+
+## ブランチの一覧を表示
