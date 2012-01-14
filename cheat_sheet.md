@@ -58,3 +58,11 @@ git help <command>
 
 ## 
 ヘルプを表示する。
+----------
+# status
+
+```
+git status
+```
+
+## ツリーの状態を表示する
