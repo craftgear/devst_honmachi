@@ -92,3 +92,12 @@ git branch <option>
 ```
 
 ## ブランチの一覧を表示
+
+----------
+# config
+
+```
+git config <option>
+```
+
+## 設定を表示/編集する。
